@@ -1,16 +1,15 @@
 
 <h1 align="center">SALUT C'est moi Bastienr17</h1>
-<h3 align="center">je ne suit qu'un petit dev qui deteste le front</h3>
+<h3 align="center">je ne suis qu'un petit de qui déteste le front</h3>
 
 <br>
 - 👋 salut c'est moi @bastienR17
 <br>
 - 👀 le Back-end c'est cool<br>
-- 🌱 petite pousse en developement<br>
+- 🌱 petite pousse en développement<br>
 - 💞️ ma team de dev est la plus forte <br>
 - 🚀 natatchat sera réelle un jour <br>
-- 🐈‍⬛ Ho et les chat c'est cool 
-
+- 🐈‍⬛ Ho et les chats c'est cool 
 
 
 
