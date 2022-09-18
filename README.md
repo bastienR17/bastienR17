@@ -37,6 +37,6 @@
 bastienR17/bastienR17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div style="text-align: center;">
+
 ![Alt Text](https://media.giphy.com/media/Zvt900PrtpL1CC7rml/giphy.gif)
-</div>
+
