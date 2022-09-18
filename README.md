@@ -1,6 +1,6 @@
 
 <h1 align="center">SALUT C'est moi Bastienr17</h1>
-<h3 align="center">je ne suis qu'un petit de qui déteste le front</h3>
+<h3 align="center">je ne suis qu'un petit dev de qui déteste le front</h3>
 
 <br>
 - 👋 salut c'est moi @bastienR17
