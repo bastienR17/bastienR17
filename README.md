@@ -5,14 +5,17 @@
 <br>
 - 👋 salut c'est moi @bastienR17
 <br>
-- 👀 le Back c'est cool<br>
+- 👀 le Back-end c'est cool<br>
 - 🌱 petite pousse en developement<br>
 - 💞️ ma team de dev est la plus forte <br>
 - 🚀 natatchat sera réelle un jour <br>
+- 🐈‍⬛ Ho et les chat c'est cool 
 
 
 
-<h3 align="left">Connect with me:</h3>
+
+<br>
+<br>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bastien-roc-52026a207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bastien-roc-52026a207/" height="30" width="40" /></a>
 </p>
@@ -28,7 +31,12 @@
                                                                 　　╰━┫╰━┫╰╯╱╭╮ 　　 
                                                                 　　╰━╯╰━╯ ╱ ╰╯ 　 　　　　
                                                            　　     COMPLETE 
+
+
 <!---
 bastienR17/bastienR17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div style="text-align: center;">
+![Alt Text](https://media.giphy.com/media/Zvt900PrtpL1CC7rml/giphy.gif)
+</div>
