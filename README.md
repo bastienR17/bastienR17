@@ -1,5 +1,5 @@
 
-<h1 align="center">SALUT C'est moi Bastienr17</h1>
+<h1 align="center">Hello C'est moi Bastienr17</h1>
 <h3 align="center">je ne suis qu'un petit dev rien de plus banal 👨🏼‍💻</h3>
 
 <br>
