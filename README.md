@@ -45,16 +45,16 @@
 
 ---
 
-### 📊 Impact & Activité GitHub
+### 📊 Mon activité sur GitHub
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bastienR17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastienR17&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bastienR17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats de Bastien" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastienR17&layout=compact&theme=tokyonight" alt="Langages de Bastien" />
 </p>
 
 ---
 
-### 🤝 Connectons-nous !
+### 📫 Me contacter
 
 <p align="left">
 <a href="https://www.linkedin.com/in/bastien-roc-52026a207/" target="blank">
@@ -62,10 +62,14 @@
 </a>
 </p>
 
+<br>
 <p align="right">
- <code>UPGRADING System to Management... 100%</code><br>
- ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇<br>
- <b>STRATEGY DEPLOYED</b>
+UNINSTALLING Windob<br>
+▇▇▇▇▇▇▇▇▇▇▇▇▇▇▢<br>
+　　╭━╮╭━╮╭╮　╱<br>
+　　╰━┫╰━┫╰╯╱╭╮<br>
+　　╰━╯╰━╯ ╱ ╰╯<br>
+COMPLETE
 </p>
 
 <p align="center">
