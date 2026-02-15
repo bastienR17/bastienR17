@@ -52,8 +52,6 @@
 ### 📊 Statistiques & Temps de Code
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bastienR17&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bastienR17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
