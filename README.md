@@ -13,7 +13,6 @@
 - 🎯 **Chef d'orchestre** : Je fais le lien entre les besoins business et la réalisation technique.
 - 📈 **Transformation Digitale** : Optimiser les processus et intégrer les nouvelles technos.
 - 💞️ **Leadership & Team** : La réussite d'un projet passe par l'humain.
-- 🚀 **Vision Natatchat** : Porter une idée de la stratégie à la réalité.
 - 🐈‍⬛ **Keep it cool** : Gérer des projets complexes avec calme (et des chats).
 
 ---
