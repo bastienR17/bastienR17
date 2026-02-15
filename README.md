@@ -6,22 +6,15 @@
   <img src="https://img.shields.io/badge/Method-Agile_&_Scrum-FF5722?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <b>Accompagner le changement | Piloter l'innovation | Transformer les idées en solutions concrètes</b>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bastienR17/bastienR17/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 ---
 
 ### 👔 Ma Vision du Management
 
 - 🎯 **Chef d'orchestre** : Je fais le lien entre les besoins business et la réalisation technique.
-- 📈 **Transformation Digitale** : Optimiser les processus et intégrer les nouvelles technos pour créer de la valeur.
-- 💞️ **Leadership & Team** : Convaincu que la réussite d'un projet passe par l'humain et une équipe soudée.
-- 🚀 **Vision Natatchat** : Un projet qui illustre ma capacité à porter une idée de la stratégie à la réalité.
-- 🐈‍⬛ **Keep it cool** : On peut gérer des projets complexes tout en gardant son calme (et en aimant les chats).
+- 📈 **Transformation Digitale** : Optimiser les processus et intégrer les nouvelles technos.
+- 💞️ **Leadership & Team** : La réussite d'un projet passe par l'humain.
+- 🚀 **Vision Natatchat** : Porter une idée de la stratégie à la réalité.
+- 🐈‍⬛ **Keep it cool** : Gérer des projets complexes avec calme (et des chats).
 
 ---
 
@@ -48,9 +41,19 @@
 
 ---
 
-### 📊 Activité & Engagement
+### 🐍 Mon Activité
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/bastienR17/bastienR17/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### 📊 Statistiques & Temps de Code
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bastienR17&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bastienR17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
