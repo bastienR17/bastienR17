@@ -1,50 +1,51 @@
-<h1 align="center">Salut, moi c'est Bastien ! 👋</h1>
+<h1 align="center">Bastien | Chef de Projet & Transformation Digitale 🚀</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Dév_en_herbe-36BCF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Main-Back--end-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mood-Cats_&_Code-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Chef_de_Projet-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Transfo_Digitale-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Method-Agile_&_Scrum-FF5722?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <b>Développeur Fullstack passionné par le Back-end | Créateur de Natatchat 🚀 | Cat Lover 🐈‍⬛</b>
+  <b>Accompagner le changement | Piloter l'innovation | Transformer les idées en solutions concrètes</b>
 </p>
 
 ---
 
-### 🚀 À propos de moi
+### 👔 Ma Vision du Management
 
-- 👀 **Le Back-end, c'est mon dada** : J'aime quand ça tourne bien sous le capot.
-- 🌱 **Petite pousse** : En apprentissage constant pour devenir un grand chêne du dev.
-- 💞️ **Team Spirit** : Ma team de dev est la plus forte, point final.
-- 🚀 **Projet** : Natatchat sera réelle un jour, préparez-vous.
+- 🎯 **Chef d'orchestre** : Je fais le lien entre les besoins business et la réalisation technique.
+- 📈 **Transformation Digitale** : Optimiser les processus et intégrer les nouvelles technos pour créer de la valeur.
+- 💞️ **Leadership & Team** : Convaincu que la réussite d'un projet passe par l'humain et une équipe soudée (ma team est la plus forte !).
+- 🚀 **Vision Natatchat** : Un projet qui illustre ma capacité à porter une idée de la stratégie à la réalité.
+- 🐈‍⬛ **Keep it cool** : On peut gérer des projets complexes tout en gardant son calme (et en aimant les chats).
 
 ---
 
-### 🛠️ Mon Stack Technique
+### 🛠️ Expertise & Stack
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><b>Frontend</b></td>
-    <td align="center" width="33%"><b>Backend</b></td>
-    <td align="center" width="33%"><b>Outils & Autres</b></td>
+    <td align="center" width="33%"><b>Management & Soft Skills</b></td>
+    <td align="center" width="33%"><b>Transformation & Outils</b></td>
+    <td align="center" width="33%"><b>Culture Technique</b></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue,react,sass" />
+      Agilité (Scrum/Kanban)<br>Gestion de Budget<br>Roadmap Produit<br>Accompagnement au Changement
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=php,symfony,nodejs,express,py,mysql,mongodb" />
+      <img src="https://skillicons.dev/icons?i=figma,notion,github,wordpress,discord" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,wordpress,java,swift" />
+      <img src="https://skillicons.dev/icons?i=php,symfony,nodejs,py,mysql" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 Impact & Activité GitHub
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bastienR17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -53,7 +54,7 @@
 
 ---
 
-### 📫 Me contacter
+### 🤝 Connectons-nous !
 
 <p align="left">
 <a href="https://www.linkedin.com/in/bastien-roc-52026a207/" target="blank">
@@ -62,9 +63,9 @@
 </p>
 
 <p align="right">
- <code>UNINSTALLING Windob... 99%</code><br>
- ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▢<br>
- <b>COMPLETE</b>
+ <code>UPGRADING System to Management... 100%</code><br>
+ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇<br>
+ <b>STRATEGY DEPLOYED</b>
 </p>
 
 <p align="center">
