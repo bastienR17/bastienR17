@@ -10,6 +10,9 @@
   <b>Accompagner le changement | Piloter l'innovation | Transformer les idées en solutions concrètes</b>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bastienR17/bastienR17/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 ---
 
 ### 👔 Ma Vision du Management
