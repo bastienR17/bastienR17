@@ -1,14 +1,9 @@
 name: generate animation
 
 on:
-  # Lancement automatique toutes les 24h
   schedule:
     - cron: "0 */24 * * *" 
-  
-  # Permet de le lancer manuellement
   workflow_dispatch:
-  
-  # Lancement à chaque push sur la branche main
   push:
     branches:
     - main
@@ -20,9 +15,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
-   steps:
+    steps:
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
